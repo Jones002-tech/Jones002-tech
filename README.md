@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-**'Aspiring cloud engineer all around werid tech wizzard'**
+**`Aspiring cloud engineer all around werid tech wizzard`**
 
