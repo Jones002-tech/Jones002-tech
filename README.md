@@ -1,7 +1,7 @@
-## 👋 Hi there 👋
+##  Hi there 👋
 
 <!--
-**Jones002-tech/Jones002-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Aspiring cloud engineer all around werid tech wizzard'**
 
 Here are some ideas to get you started:
 
